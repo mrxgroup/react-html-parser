@@ -21,7 +21,6 @@
     "extract-text-webpack-plugin": "^1.0.1",
     "html-webpack-plugin": "^2.17.0",
     "json-loader": "^0.5.4",
-    "node-sass": "^3.7.0",
     "postcss-loader": "^0.9.1",
     "raw-loader": "^0.5.1",
     "react-hot-loader": "^3.0.0-beta.7",
@@ -33,11 +32,12 @@
   },
   "dependencies": {
     "brace": "^0.8.0",
+    "node-sass": "^9.0.0",
     "normalize-scss": "^4.2.1",
     "prop-types": "^15.6.0",
-    "react": "^16.0.0",
+    "react": "^17",
     "react-ace": "^5.1.2",
-    "react-dom": "^16.0.0",
+    "react-dom": "^17",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2"
   }
